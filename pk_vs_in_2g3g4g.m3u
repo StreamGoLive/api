@@ -1,111 +1,5 @@
 #EXTM3U
-#Islam
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",MADANI CHANNEL
-https://vodzong.mjunoon.tv:8087/streamtest/Madni-121/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",MADANI CHANNEL
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/0.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",MADANI BANGLA
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",MADANI ENG
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",AL EHSAAN TV
-https://cdn.bmstudiopk.com/alehsaan/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",SAUDI QURAN
-https://vodzong.mjunoon.tv:8087/streamtest/SaudiQuran-142/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",MADANI TV
-https://vodzong.mjunoon.tv:8087/streamtest/Madni-121/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",TAKBEER TV
-https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",IH TV URDU
-https://live.imamhossaintv.com/live/ih4.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",IH TV FARSI
-https://live.imamhossaintv.com/live/ih1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",IH TV ARABI
-https://live.imamhossaintv.com/live/ih2.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",IH TV ENG
-https://live.imamhossaintv.com/live/ih3.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",AL ISTIQAMA
-http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",IQRAA
-https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",IQRAA
-https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",IQRAA EUROPE
-https://jmc-live.ercdn.net/iqraaeurope/iqraaeurope.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",ISLAM URDU
-https://live-islamtv-urdu.simplestreamcdn.com/live7/islamtv_urdu/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",CHANNEL WIN
-https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",I PLUS TV
-https://live.we2live.in/iplustv/iplustv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",DEEN TV
-https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",HYDER TV
-https://cdn.live247stream.com/hyder/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",HADI URDU
-https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",HADI MALYSIA
-https://live.ishiacloud.com/haditv.co.uk/haditv2.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",HADI RUSSIA
-https://live.ishiacloud.com/haditv.co.uk/haditv3.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",HADI FARSI
-https://live.ishiacloud.com/haditv.co.uk/haditv4.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",HADI HAUSA
-https://live.ishiacloud.com/haditv.co.uk/haditv5.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",HADI PASHTO
-https://live.ishiacloud.com/haditv.co.uk/haditv6.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",HADI TV 7
-https://live.ishiacloud.com/haditv.co.uk/haditv7.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",HADI TV 8
-https://live.ishiacloud.com/haditv.co.uk/haditv8.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",PAYAM TV
-https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",DIYANET TV
-https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",BAHRAIN QURAN
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",SALAM TV
-https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",EMAN TV
-https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",AL QAMAR
-https://pull-cdnw.anystream.uk/live/d84d4809018b100059f000f600000000/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",ALMASIRA MUBASHER
-https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/almasiramubacherpublish/almasira/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",IBN TV
-http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",HADI TV 3
-https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_480p.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",AL KAFEEL TV
-https://stream.alkafeel.net/live/alkafeel/playlist.m3u8
 
-#EXTM3U
-#Palestine-TV
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",AL JAZEERA ENG
-https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",AL JAZEERA ENG
-https://live-hls-web-aje.getaj.net/AJE/03.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",PALESTINE TV
-https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",PALESTINE TODAY
-https://live.paltodaytv.com/paltv/live/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",NABLUS TV
-http://htvmada.mada.ps:8888/nabluslive/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",HALA TV
-https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",PALESTINE TV
-https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",RAJEEN TV
-https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",WATTAN TV
-http://htvmada.mada.ps:8888/wattan/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",MUSAWA HD
-https://pbc.furrera.ps/musawahd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",MA AN NEWS
-https://htvmada.mada.ps:4443/maannews/tracks-v1a1/mono.m3u8
-
-
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Drama",HAMARA TV
 https://j7md5mbeyrwv-hls-live.5centscdn.com/hamara/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Drama",GEO TV
@@ -210,6 +104,84 @@ https://vodzong.mjunoon.tv:8087/streamtest/KTN-149/playlist.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/WASEB-130/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-computer-vector-illustration-design_1143296-3903.jpg" group-title="Pakistan-Regional",MASHRIQ TV
 https://vodzong.mjunoon.tv:8087/streamtest/mashriq-109/playlist.m3u8
-
+#Islam
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",MADANI CHANNEL
+https://vodzong.mjunoon.tv:8087/streamtest/Madni-121/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",MADANI CHANNEL
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/0.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",MADANI BANGLA
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",MADANI ENG
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",AL EHSAAN TV
+https://cdn.bmstudiopk.com/alehsaan/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",SAUDI QURAN
+https://vodzong.mjunoon.tv:8087/streamtest/SaudiQuran-142/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",MADANI TV
+https://vodzong.mjunoon.tv:8087/streamtest/Madni-121/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",TAKBEER TV
+https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",IH TV URDU
+https://live.imamhossaintv.com/live/ih4.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",IH TV FARSI
+https://live.imamhossaintv.com/live/ih1.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",IH TV ARABI
+https://live.imamhossaintv.com/live/ih2.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",IH TV ENG
+https://live.imamhossaintv.com/live/ih3.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",AL ISTIQAMA
+http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",IQRAA
+https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",IQRAA
+https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",IQRAA EUROPE
+https://jmc-live.ercdn.net/iqraaeurope/iqraaeurope.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",ISLAM URDU
+https://live-islamtv-urdu.simplestreamcdn.com/live7/islamtv_urdu/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",CHANNEL WIN
+https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",I PLUS TV
+https://live.we2live.in/iplustv/iplustv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",DEEN TV
+https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",HYDER TV
+https://cdn.live247stream.com/hyder/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",HADI URDU
+https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",HADI MALYSIA
+https://live.ishiacloud.com/haditv.co.uk/haditv2.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",HADI RUSSIA
+https://live.ishiacloud.com/haditv.co.uk/haditv3.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",HADI FARSI
+https://live.ishiacloud.com/haditv.co.uk/haditv4.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",HADI HAUSA
+https://live.ishiacloud.com/haditv.co.uk/haditv5.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",HADI PASHTO
+https://live.ishiacloud.com/haditv.co.uk/haditv6.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",HADI TV 7
+https://live.ishiacloud.com/haditv.co.uk/haditv7.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",HADI TV 8
+https://live.ishiacloud.com/haditv.co.uk/haditv8.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",PAYAM TV
+https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",DIYANET TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",BAHRAIN QURAN
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",SALAM TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",EMAN TV
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",AL QAMAR
+https://pull-cdnw.anystream.uk/live/d84d4809018b100059f000f600000000/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",ALMASIRA MUBASHER
+https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/almasiramubacherpublish/almasira/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",IBN TV
+http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",HADI TV 3
+https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_480p.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/09/19/23/32/arabic-text-7466647_640.png" group-title="Islam",AL KAFEEL TV
+https://stream.alkafeel.net/live/alkafeel/playlist.m3u8
 
 
