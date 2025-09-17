@@ -1,0 +1,24 @@
+#EXTM3U
+#Palestine-TV
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",AL JAZEERA ENG
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",AL JAZEERA ENG
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",PALESTINE TV
+https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",PALESTINE TODAY
+https://live.paltodaytv.com/paltv/live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",NABLUS TV
+http://htvmada.mada.ps:8888/nabluslive/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",HALA TV
+https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",PALESTINE TV
+https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",RAJEEN TV
+https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",WATTAN TV
+http://htvmada.mada.ps:8888/wattan/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",MUSAWA HD
+https://pbc.furrera.ps/musawahd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/palestine-circle-flag-logo-icon-computer-vector-illustration-design_1143296-2519.jpg" group-title="Palestine-TV",MA AN NEWS
+https://htvmada.mada.ps:4443/maannews/tracks-v1a1/mono.m3u8
