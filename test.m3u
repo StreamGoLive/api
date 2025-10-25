@@ -1,5 +1,7 @@
 #EXTM3U
 #STARSPORTS
+#EXTINF:-1 tvg-logo="" group-title="CRICKET",FOX 51
+https://foxhindi.pages.dev/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="STAR SPORTS",STAR SPORTS 1 HD 
 https://v5on.site/mxonlive/playlist.php?id=1104672
 #EXTINF:-1 tvg-logo="" group-title="STAR SPORTS",STAR SPORTS 2 HD 
