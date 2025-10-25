@@ -1,6 +1,6 @@
 #EXTM3U
 #STARSPORTS
-#EXTINF:-1 tvg-logo="" group-title="CRICKET",FOX 51
+#EXTINF:-1 tvg-logo="" group-title="CRICKET",FOX 501
 https://foxhindi.pages.dev/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="STAR SPORTS",STAR SPORTS 1 HD 
 https://v5on.site/mxonlive/playlist.php?id=1104672
@@ -16,7 +16,7 @@ https://v5on.site/mxonlive/playlist.php?id=1104673
 https://v5on.site/mxonlive/playlist.php?id=1104671
 #EXTINF:-1 tvg-logo="" group-title="CRICKET",WILLOW
 https://v5on.site/mxonlive/playlist.php?id=1104677
-#EXTINF:-1 tvg-logo="" group-title="CRICKET",FOX 51HD
+#EXTINF:-1 tvg-logo="" group-title="CRICKET",FOX 501HD
 https://v5on.site/mxonlive/playlist.php?id=1104678
 #EXTINF:-1 tvg-logo="" group-title="CRICKET",SKY SPORTS 1 
 https://v5on.site/mxonlive/playlist.php?id=1104679
