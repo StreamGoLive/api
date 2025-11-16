@@ -1,5 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="SPORTS",Sony Sports-1 HD
+https://playlists.noobmaster.xyz/sliv/stream.php?id=sony-ten-1&format=.m3u8
+#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="SPORTS",Sony Sports-2 HD
+https://playlists.noobmaster.xyz/sliv/stream.php?id=sony-ten-2&format=.m3u8
+#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png" group-title="SPORTS",Sony Sports-3 HD
+https://playlists.noobmaster.xyz/sliv/stream.php?id=sony-ten-3&format=.m3u8
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SPORTS",Sony Sports-5 SD
+https://playlists.noobmaster.xyz/sliv/stream.php?id=sony-ten-5&format=.m3u8
+#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="SPORTS",Sony Sports-1 HD
 https://stalker.tnm3us.workers.dev/62593.m3u8
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="SPORTS",Sony Sports-2 HD
 http://filex.tv:8080/live/Home329/Sohailhome/52083.m3u8
@@ -19,6 +27,7 @@ https://tiger-hub.vercel.app/SONY/Sports-5/tracks-v1a1/mono.ts.m3u8
 http://103.240.44.26/Sony-Ten-1-HD/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="SPORTS",Sony Ten 2
 http://103.240.44.26/Sony-Ten-2-HD/index.fmp4.m3u8
+
 
 
 
