@@ -16,7 +16,7 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.muslimandquran.com/frontend/images/ILM_TV" group-title="Islam Channels🕋",ILM-TV 📺
 https://tplay.live/originals/ilm-tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mrXRsfZk/download-1.png" group-title="Islam Channels🕋",Al Jajira English 📺
-https://live-hls-web-aje-fa.getaj.net/alternative/AJE/03.m3u8
+https://live-hls-web-aje-gcp.thehlive.com/AJE/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/salaam.jpg" group-title="Islam Channels🕋",Salaam Tv 📺
 https://ap02.iqplay.tv:8082/iqb8002/sa1aamch568/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/05/Deentv.png" group-title="Islam Channels🕋",Deen TV UK 📺
