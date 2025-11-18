@@ -4,6 +4,14 @@ https://tplay.live/originals/ilm-tv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" group-title="Islam Channels🕋",MAKKA TV
 https://vodzong.mjunoon.tv:8087/streamtest/SaudiQuran-142/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Medina-Live.jpg" group-title="Islam Channels🕋",MADINA 📺
+http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0643qrCPgXBDQ98W8BPAf2Od1KM5B82UxsDr5ajBoPFeF-Kfq9X-7qMrj&s=10" group-title="Islam Channels🕋", MADANI - URDU📺
+https://vodzong.mjunoon.tv:8087/streamtest/Madni-121/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0643qrCPgXBDQ98W8BPAf2Od1KM5B82UxsDr5ajBoPFeF-Kfq9X-7qMrj&s=10" group-title="Islam Channels🕋", MADANI - BANGLA📺
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0643qrCPgXBDQ98W8BPAf2Od1KM5B82UxsDr5ajBoPFeF-Kfq9X-7qMrj&s=10" group-title="Islam Channels🕋", MADANI - ENG📺
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.muslimandquran.com/frontend/images/ILM_TV" group-title="Islam Channels🕋",ILM-TV 📺
 https://tplay.live/originals/ilm-tv/index.m3u8
@@ -15,6 +23,10 @@ https://ap02.iqplay.tv:8082/iqb8002/sa1aamch568/playlist.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/logo_50.png?x67896" group-title="Islam Channels🕋",PEACE TV BANGLA 📺
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/logo_50.png?x67896" group-title="Islam Channels🕋",PEACE TV English 📺
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/logo_50.png?x67896" group-title="Islam Channels🕋",PEACE TV Urdu📺
+https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/3DoMpRJzNH4/hqdefault.jpg" group-title="Islam Channels🕋",Eman Channel 📺
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QvC2xh9M/images.png" group-title="Islam Channels🕋",TV ONE 📺
