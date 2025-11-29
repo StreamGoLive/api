@@ -1,8 +1,46 @@
 #EXTM3U
 
-
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGMKZ_a6F1023vQG8fDXNC3Rext_JQEOlfFQ&s",SAB TV SD 
+https://billatv.netlify.app/.netlify/functions/Opplex?id=221256.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="",24/7 Doreamon
+https://live20.bozztv.com/giatvplayout7/giatv-209902/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Oggy_and_the_Cockroaches_Logo.webp/600px-Oggy_and_the_Cockroaches_Logo.webp.png",24/7 Oggy and Cockroach
+https://live20.bozztv.com/giatvplayout7/giatv-210728/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/as/6/67/Gopal_Bhar_animated_TV_series_title_card.jpeg",24/7 Gopal bhar
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.ytimg.com/vi/rEKifG2XUZg/hq720.jpg?v=67c9bf23&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBsnFu9Vud7c4bZX5GjOzbt3A6EmA",Tom/Jerry-24/7 
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Bantul_The_Great_logo.jpeg/250px-Bantul_The_Great_logo.jpeg
+",24/7 Bantul The Great
+https://live20.bozztv.com/giatvplayout7/giatv-209869/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://yt3.googleusercontent.com/8OIbcX3lD89pQJzRMVLG7MIb_-_ieZfC4WyHXDaAJHL4YhPl6xkpIHtIMGrY3u8ZsZ1hJuEu4w=s900-c-k-c0x00ffffff-no-rj",Kids Zone HD
+h
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Jungle Book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5aiRX4x457Qiav8WDrPgtG6hBzxOYVegWQA&s",Powerkids kartoon Channel
+https://cc-j2qrmdlg5y7lg.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j2qrmdlg5y7lg/powerkids.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtnSccGpR8nuF3o4-eJaLHSkU1mr27g-U_hg&s",Kido Matix
+https://cc-le0kohm4qt3mk.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-le0kohm4qt3mk/OTM/OTM_KiddoMatix-SCTE_SAMSUNG/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://superawesomevectors.com/wp-content/uploads/2023/09/mr-bean-vector.jpg",Mr Bean Animated
+https://amg00627-banijay-amg00627c28-lg-gb-4244.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-lggb/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://pbs.twimg.com/profile_images/1253218549889241088/nyeNrOPq_400x400.jpg",NuNuTV
+https://liveplay-g.instreamo.jio.com/hls/view-playlist/v2/936b9d60-11fb-4871-a6f4-01ceef718426/playlist.m3u8?api-key=e302eb59-caaa-4d44-9e30-2086bf183c4e
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png",Discovery Kids
+https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="",Kids TV India
+h
+#EXTINF:-1 group-title="Kids" tvg-logo="",Animax
+https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="",Duronto TV
+https://tvsen4.aynaott.com/durontotv/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="",Pogo Hindi
+h
+#EXTINF:-1 group-title="Kids" tvg-logo="",Mr.Bean
+https://amg00627-banijay-amg00627c40-lg-gb-5643.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-lggb/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="",Gubbare HD
+https://epiconvh.akamaized.net/live/gubbare/master.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="",24/7 Moto Patlo
+https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdNK3wSO_AdeH8C8ynjxffe8tOhuoDjdiCVw&s",ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://deadline.com/wp-content/uploads/2017/02/cbeebies.jpg",BBC Cbeebies 
@@ -15,20 +53,15 @@ https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209650/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Duck TV
 https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",ETV Bal Bharat
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Hungama
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Nick
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
-
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Sony YAY
 https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Spacetoon
@@ -679,6 +712,7 @@ http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
 http://livealone302.iqilu.com/iqilu/sepd.m3u8
 #EXTINF:-1 tvg-id="ZhejiangChildrensChannel.cn" tvg-logo="https://i.imgur.com/MbJUmZS.png" group-title="Kids",浙江少儿 (1080p)
 https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+
 
 
 
