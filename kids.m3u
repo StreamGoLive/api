@@ -26,7 +26,7 @@ https://liveplay-g.instreamo.jio.com/hls/view-playlist/v2/936b9d60-11fb-4871-a6f
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png",Discovery Kids
 https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://image.roku.com/developer_channels/prod/a532fe4b4a0e806e7cf196e05131e8a518d994e25e04cf8ae66f575262b48b76.png",Kids TV India
-
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqmsaICedvkgrzqzh6ghY83iQU0uJf5KJd4Q&s",Animax
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",Duronto TV
@@ -710,6 +710,7 @@ http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
 http://livealone302.iqilu.com/iqilu/sepd.m3u8
 #EXTINF:-1 tvg-id="ZhejiangChildrensChannel.cn" tvg-logo="https://i.imgur.com/MbJUmZS.png" group-title="Kids",浙江少儿 (1080p)
 https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+
 
 
 
