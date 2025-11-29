@@ -2,7 +2,7 @@
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGMKZ_a6F1023vQG8fDXNC3Rext_JQEOlfFQ&s",SAB TV SD 
 https://billatv.netlify.app/.netlify/functions/Opplex?id=221256.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://www.shutterstock.com/image-vector/jakartaindonesia-september-28-2023-vector-600nw-2367987941.jpg",24/7 Doreamon
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzo4tarJFt6JPsCIpm39l50-RCc3RBZACguQ&s",24/7 Doreamon
 https://live20.bozztv.com/giatvplayout7/giatv-209902/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Oggy_and_the_Cockroaches_Logo.webp/600px-Oggy_and_the_Cockroaches_Logo.webp.png",24/7 Oggy and Cockroach
 https://live20.bozztv.com/giatvplayout7/giatv-210728/index.m3u8
@@ -703,6 +703,7 @@ http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
 http://livealone302.iqilu.com/iqilu/sepd.m3u8
 #EXTINF:-1 tvg-id="ZhejiangChildrensChannel.cn" tvg-logo="https://i.imgur.com/MbJUmZS.png" group-title="Kids",浙江少儿 (1080p)
 https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+
 
 
 
