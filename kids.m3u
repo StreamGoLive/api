@@ -2,7 +2,7 @@
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.scdn.co/image/ab6761610000e5eb034af3b171f0671364d85957",Nick Jr
 http://103.140.254.2:3500/live/544.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://images.seeklogo.com/logo-png/31/1/nick-hd-logo-png_seeklogo-314639.png",Nick HD
+#EXTINF:-1 group-title="Kids" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5345539c-4938-45f7-92b4-450da9b53e24/di1buvp-5052fe00-79e5-46d9-87e9-1880c6fe231a.png/v1/fill/w_1280,h_984/nickelodeon_hd_logo__2023__by_yellowpen2009_di1buvp-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTg0IiwicGF0aCI6Ii9mLzUzNDU1MzljLTQ5MzgtNDVmNy05MmI0LTQ1MGRhOWI1M2UyNC9kaTFidXZwLTUwNTJmZTAwLTc5ZTUtNDZkOS04N2U5LTE4ODBjNmZlMjMxYS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.q9layhwzm8rSrNFmtnk1Y_kO8chHqNskVVfqWSlc5Q4",Nick HD
 http://103.140.254.2:3500/live/1226.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
 http://103.140.254.2:3500/live/1079.m3u8
@@ -311,6 +311,7 @@ https://st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8
 http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8
 #EXTINF:-1 tvg-id="ZhejiangChildrensChannel.cn" tvg-logo="https://i.imgur.com/MbJUmZS.png" group-title="Kids",浙江少儿 (1080p)
 https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+
 
 
 
