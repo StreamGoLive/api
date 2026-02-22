@@ -22,20 +22,6 @@ http://103.140.254.2:3500/live/554.m3u8
 http://103.140.254.2:3500/live/548.m3u8
 #EXTINF:-1 ,Pogo
 http://103.140.254.2:3500/live/559.m3u8
-#EXTINF:-1 ,Amar Bangla*
-http://115.187.41.216:8080/hls/amarbangla/index.m3u8
-#EXTINF:-1 ,Amar Digital*
-http://115.187.41.216:8080/hls/amardigital/index.m3u8
-#EXTINF:-1 ,Mon Tv Bangla*
-http://115.187.41.216:8080/hls/montvbangla/index.m3u8
-#EXTINF:-1 ,Bhakti Bangla*
-http://115.187.41.216:8080/hls/bhaktibangla/index.m3u8
-#EXTINF:-1 ,Salam Bangla*
-http://115.187.41.216:8080/hls/salambangla/index.m3u8
-#EXTINF:-1 ,Digital Fashion*
-http://115.187.41.216:8080/hls/digitalfashion/index.m3u8
-#EXTINF:-1 ,Sananda Tv*
-http://115.187.41.216:8080/hls/sanandatv/index.m3u8
 #EXTINF:-1 ,KIDS ZONE PK
 http://163.61.227.29:8000/play/a03x/index.m3u8
 #EXTINF:-1 ,Disney Channel
@@ -327,6 +313,7 @@ https://st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8
 http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8
 #EXTINF:-1 tvg-id="ZhejiangChildrensChannel.cn" tvg-logo="https://i.imgur.com/MbJUmZS.png" group-title="Kids",浙江少儿 (1080p)
 https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+
 
 
 
