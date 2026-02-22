@@ -1,29 +1,27 @@
 #EXTM3U
 
-#EXTINF:-1 ,Nick Jr
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Nick Jr
 http://103.140.254.2:3500/live/544.m3u8
-#EXTINF:-1 ,Nick HD
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Nick HD
 http://103.140.254.2:3500/live/1226.m3u8
-#EXTINF:-1 ,Cartoon Network
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
 http://103.140.254.2:3500/live/1079.m3u8
-#EXTINF:-1 ,Nick
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Nick
 http://103.140.254.2:3500/live/545.m3u8
-#EXTINF:-1 ,D kids
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png",D kids
 http://103.140.254.2:3500/live/550.m3u8
 #EXTINF:-1 ,Turbo
 http://103.140.254.2:3500/live/541.m3u8
-#EXTINF:-1 ,Cartoon Network
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
 http://103.140.254.2:3500/live/816.m3u8
-#EXTINF:-1 ,Cartoon Network
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
 http://103.140.254.2:3500/live/815.m3u8
-#EXTINF:-1 ,D kids
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png",D kids
 http://103.140.254.2:3500/live/554.m3u8
-#EXTINF:-1 ,Nick Jr hindi
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Nick Jr hindi
 http://103.140.254.2:3500/live/548.m3u8
 #EXTINF:-1 ,Pogo
 http://103.140.254.2:3500/live/559.m3u8
-#EXTINF:-1 ,Colors HD
-http://103.140.254.2:3500/live/144.m3u8
 #EXTINF:-1 ,Amar Bangla*
 http://115.187.41.216:8080/hls/amarbangla/index.m3u8
 #EXTINF:-1 ,Amar Digital*
@@ -44,17 +42,17 @@ http://163.61.227.29:8000/play/a03x/index.m3u8
 http://110.39.27.47:8001/play/a03m/index.m3u8
 #EXTINF:-1 ,Cartoon Network
 http://110.39.27.47:8001/play/a01k/index.m3u8
-#EXTINF:-1 ,DISCOVERY KIDS
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png",Discovery Kids
 http://110.39.27.47:8001/play/a00i/index.m3u8
 #EXTINF:-1 ,Cartoonito
 http://181.78.4.250:8098/play/a067/index.m3u8
-#EXTINF:-1 ,Discovery Kids
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png",Discovery Kids
 http://181.78.4.250:8098/play/a08h/index.m3u8
 #EXTINF:-1 group-title="-",Sonic - Rs 1.00
 http://103.182.170.32:8888/play/a02s
 #EXTINF:-1 group-title="-",Nick  - Rs 6.00
 http://103.182.170.32:8888/play/a04q
-#EXTINF:-1 ,Discovery Kids
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png",Discovery Kids
 http://103.182.170.32:8888/play/a02o
 #EXTINF:-1 ,Disney Channel
 http://103.182.170.32:8888/play/a04g
@@ -80,24 +78,10 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://cc-j2qrmdlg5y7lg.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j2qrmdlg5y7lg/powerkids.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtnSccGpR8nuF3o4-eJaLHSkU1mr27g-U_hg&s",Kido Matix
 https://cc-le0kohm4qt3mk.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-le0kohm4qt3mk/OTM/OTM_KiddoMatix-SCTE_SAMSUNG/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://superawesomevectors.com/wp-content/uploads/2023/09/mr-bean-vector.jpg",Mr Bean Animated
-https://amg00627-banijay-amg00627c28-lg-gb-4244.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-lggb/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://pbs.twimg.com/profile_images/1253218549889241088/nyeNrOPq_400x400.jpg",NuNuTV
-https://liveplay-g.instreamo.jio.com/hls/view-playlist/v2/936b9d60-11fb-4871-a6f4-01ceef718426/playlist.m3u8?api-key=e302eb59-caaa-4d44-9e30-2086bf183c4e
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png",Discovery Kids
 https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://image.roku.com/developer_channels/prod/a532fe4b4a0e806e7cf196e05131e8a518d994e25e04cf8ae66f575262b48b76.png",Kids TV India
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqmsaICedvkgrzqzh6ghY83iQU0uJf5KJd4Q&s",Animax
-https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",Duronto TV
 https://tvsen4.aynaott.com/durontotv/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png",Pogo Hindi
-https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://assets.openmoviemap.com/images/productions/280/104.jpg",Mr.Bean
-https://amg00627-banijay-amg00627c40-lg-gb-5643.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-lggb/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://stmify.com/wp-content/uploads/2024/09/113-s.webp",Gubbare HD
-https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.ytimg.com/vi/9Uv2Q3iiaFc/maxresdefault.jpg",24/7 Moto Patlo
 https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdNK3wSO_AdeH8C8ynjxffe8tOhuoDjdiCVw&s",ZB Cartoon
@@ -108,10 +92,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://play-lh.googleusercontent.com/QcstsCGM-pNCHrA-d6Ig2lS7NnIm9lX2Kww7jgZAV3_JJ9p-VKKwnZMmJr72sw69z944",Duck TV
 https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Nick
-http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://yt3.googleusercontent.com/Al23vKkkhMd04Y3R29Qsn9aOy14rxNPlNzXWDoZDtGvzEk1fwu7nAZmMqLmtx_Y5oXKSNrQr=s900-c-k-c0x00ffffff-no-rj",Sony YAY
-https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/1200px-PBS_Kids_logo_%282022%29.svg.png",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rongeen_TV.png",Rongeen TV
@@ -124,8 +104,6 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/wiggles/images/3/35/DisneyJunior.jpg/revision/latest/scale-to-width-down/3000?cb=20170729154725",Disney Junior
-https://live20.bozztv.com/giatvplayout7/giatv-209650/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://play-lh.googleusercontent.com/cPTAAvCeTEG6nu_ofBT-9xP1qfk6gU7AxM_z4Cwv_-zFQOLAND7ja6z1KnuMkWb3J-k",Kids Flix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1 group-title="Kids" tvg-logo="https://play-lh.googleusercontent.com/CwSMIWAAxtjCgAnv8GHlUQOcuZe9qQw7_Ho0jjE0FYrPHMEKCmZjDeclxjNJK_LO6g",Toon Google
@@ -349,6 +327,7 @@ https://st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8
 http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8
 #EXTINF:-1 tvg-id="ZhejiangChildrensChannel.cn" tvg-logo="https://i.imgur.com/MbJUmZS.png" group-title="Kids",浙江少儿 (1080p)
 https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+
 
 
 
