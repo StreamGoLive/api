@@ -46,8 +46,6 @@ http://103.182.170.32:8888/play/a04g
 http://103.182.170.32:8888/play/a01y
 #EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNV1Kp7gAqkJn4ChEnSkHT3YKsTEn6roI5mA&s",Disney Junior
 http://103.182.170.32:8888/play/a03q
-#EXTINF:-1 group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/telelibrary/images/8/85/ETV_Bal_Bharat_-_logo.png",ETV Bal Bharat
-http://103.182.170.32:8888/play/a022
 #EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzo4tarJFt6JPsCIpm39l50-RCc3RBZACguQ&s",24/7 Doreamon
 https://live20.bozztv.com/giatvplayout7/giatv-209902/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Oggy_and_the_Cockroaches_Logo.webp/600px-Oggy_and_the_Cockroaches_Logo.webp.png",24/7 Oggy and Cockroach
@@ -313,6 +311,7 @@ https://st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8
 http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8
 #EXTINF:-1 tvg-id="ZhejiangChildrensChannel.cn" tvg-logo="https://i.imgur.com/MbJUmZS.png" group-title="Kids",浙江少儿 (1080p)
 https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+
 
 
 
