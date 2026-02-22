@@ -64,30 +64,6 @@ http://103.182.170.32:8888/play/a01y
 http://103.182.170.32:8888/play/a03q
 #EXTINF:-1 ,ETV Bal Bharat
 http://103.182.170.32:8888/play/a022
-#EXTINF:-1 ,Ani
-http://ott.watch/stream/D3FX33QMIH1/306.m3u8
-#EXTINF:-1 ,Gulli Gril
-http://ott.watch/stream/D3FX33QMIH1/305.m3u8
-#EXTINF:-1 ,Na!oc
-http://ott.watch/stream/D3FX33QMIH1/339.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://api.visionplustv.id/static/cnpzqb.webp",Dream Works
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://api.visionplustv.id/static/pyelcj.webp",Zoomoo
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000151/1024.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://api.visionplustv.id/static/crpnla.webp",Kids Tv
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://api.visionplustv.id/static/hassbk.webp",Cbeebies
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000006/1024.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://api.visionplustv.id/static/fnwwtk.webp",Nick
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000060/1024.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://api.visionplustv.id/static/xjuyad.webp",Nick jr
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000118/1024.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://api.visionplustv.id/static/wukkms.webp",Animax
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpMCoR3VuXQCF0y_pAqLnCcoVE6fOJKAiLpw&s",Hungama Kids
-https://fifabdm.xyz/OPPLEX/RANAPK/play.php?id=150480
-#EXTINF:-1 group-title="Kids" tvg-logo="https://img.utdstc.com/icon/668/e46/668e468de3ea4aa21743d810e96e8e9dd9347041cff36fac05e5b4217b94fc06:200",Disney-Channel
-https://fifabdm.xyz/OPPLEX/RANAPK/play.php?id=388459
 #EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzo4tarJFt6JPsCIpm39l50-RCc3RBZACguQ&s",24/7 Doreamon
 https://live20.bozztv.com/giatvplayout7/giatv-209902/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Oggy_and_the_Cockroaches_Logo.webp/600px-Oggy_and_the_Cockroaches_Logo.webp.png",24/7 Oggy and Cockroach
@@ -373,6 +349,7 @@ https://st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8
 http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8
 #EXTINF:-1 tvg-id="ZhejiangChildrensChannel.cn" tvg-logo="https://i.imgur.com/MbJUmZS.png" group-title="Kids",浙江少儿 (1080p)
 https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+
 
 
 
